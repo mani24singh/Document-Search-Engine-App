@@ -17,3 +17,8 @@ A complete end-to-end RAG learning repository covering fundamentals to advanced 
 
 ## Create a .env file and add your LLMs Key
 OPENAI_API_KEY=" "
+
+
+## Deployed App: Document Search Engine
+
+https://github.com/user-attachments/assets/0b339ef3-936d-44aa-a82c-97f96b8850eb
